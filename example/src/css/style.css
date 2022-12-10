@@ -3,3 +3,19 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.height-100vh {
+  height: 100vh;
+}
+
+.flex {
+  display: flex;  
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
